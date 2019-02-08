@@ -14,4 +14,4 @@ Halaman Kasir
 ![alt text](https://github.com/Maulanapranasutra/Laporan-Tugas/blob/master/kasir4.JPG)
 ![alt text](https://github.com/Maulanapranasutra/Laporan-Tugas/blob/master/kasir5.JPG)
 Nota Pembelian
-![alt text](https://github.com/Maulanapranasutra/Laporan-Tugas/blob/master/nota.PNG)
+![alt text](https://github.com/Maulanapranasutra/Laporan-Tugas/blob/master/nota.png)
